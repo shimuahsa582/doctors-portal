@@ -42,7 +42,7 @@ const Navbar = () => {
 						</a>
 					</li>
 					<li class="nav-item">
-						<a class="nav-link ms-5 me-3 text-white fs-6" aria-current="page" href="#">
+						<a class="nav-link ms-5 me-5 text-white fs-6" aria-current="page" href="#">
 							Contact us
 						</a>
 					</li>
